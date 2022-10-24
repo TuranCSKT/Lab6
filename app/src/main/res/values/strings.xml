@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab6Task Project</string>
+    <string name="count_name">Count</string>
+    <string-array name="counter_options">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
+</resources>
